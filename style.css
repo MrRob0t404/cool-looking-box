@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+}
+
+
+/* Your CSS below here */
+
+.card {
+  height: 50px;
+  width: 300px;
+  background-color: red;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 10px black;
+  background: -webkit-linear-gradient(left, rgba(255, 0, 0, 0.62), rgba(255, 0, 0, 1));
+  box-shadow: 3px 3px 5px grey;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2px black;
+  padding-top: 13px;
+}
